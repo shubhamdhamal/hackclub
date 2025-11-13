@@ -97,7 +97,7 @@
     "remark-html": "^16.0.1",
     "styled-components": "^6.1.15",
     "swr": "^2.3.2",
-    "theme-ui": "^0.14.7",
+    "theme-ui": "^0.17.2",
     "tinytime": "^0.2.6",
     "turndown": "^7.2.0",
     "vanilla-tilt": "^1.8.1",
